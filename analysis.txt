@@ -1,0 +1,40 @@
+Main Questions and Answers
+
+Are countries that have a higher life ladder more likely to live longer?
+
+    It is possible that this correlation exists. From taking the top 10 ten of the happiest countries as well as the top 10 countries for life expectancy and comparing the two, only a handful of the happiest countries have similarly high life expectancy.
+    There is a possibilty that if more data were to be collected on the the respective medical systems as well as politics in each country, we predict that would be able to find more evidence to suggest that higher social support could possibly lead to less freedom to make life choices
+    and in turn led to less happieness which will be explored later on.
+
+Do countries that are happier have a generally lower perception of corruption? 
+
+    Yes, from our scatterplot comparing life ladder scores vs perception of corruption, we can clearly see the plots trending downwards the higher the life ladder gets, indicating that countries that are happier, feel that their government is more fair.
+    To prove this we looked further by comparing the united states perceptions of corruption over time and happieness over time and while corruption went up, happieness when downwards.
+
+Does the level of social support affect the freedom of citizens to make life choices?
+
+    Based on our findings, we believe that the relationship between the freedom to make life choices and social support exists as their scatterplots follow a similar trend. It could confidently be assumed that a higher level of social support could lead to marginally less 
+    freedoms but more data collection and analysis would need to be conducted to deduce whether or not the lower level of freedom is seen as a benefit to the citizens in the countries that have higher levels of social support. 
+
+Does a higher log GDP per capita led to a higher happieness level?
+
+    According to our scatterplot formed by comparing GDP and happieness, through the use of a linar regression model, with the exceptions of a few outliers, a higher log GDP does generally lead to higher happieness levels. To find out more about the outliers, further
+    data collection and analysis would need to be conducted.
+
+
+Finally, Has the world become a happier or sadder place over the past 2 decades?
+ 
+    From the graph indicating total happieness from 2005-2022, we can see the world happieness was very high up until around 2008 which could probably be attributed to the 2008 housing and financial crisis. After this point, happieness seemed to trend downwards, hovering 
+    around 5.4 on the happieness scale. Interestingly, happieness levels seemed to go up universally in 2020, possibily indicating that the COVID-19 epidemic and the accociated lockdowns led to increased happieness due to more time spent at home with direct family members.
+    Afterall, time is the perfect gift.
+
+
+
+    In conclusion, our findings based on our questions are very interesting. We found that countries that are happier, dont generally tend to live longer and with a bit of speculation, one could assume that this could be caused by the life style being lived out by some 
+in these happier countries. Similarly, we correctly assumed that countries that are happier generally dont think that their governing bodies are corrupt but we also found that many countries known to be very corrupt had missing data in that category. Diving deeper into 
+the data for the United States, we find that there is a direct correlation between perceptions of corruption and happieness levels as the two graphs were complete opposites of oneanother. Our analysis on the relationship between social support and freedoms was generally
+inconclusive as we found ourselves missing the needed data to conclusively answer our quesion. Next, we explored weather or not higher GDP led to a more happy population and we found that a higher log GDP does generally lead to higher happieness levels but this should be 
+taken lightly as GDP is not an all encompassing measurement of wealth. Finally, we explored the world happieness level over the past 17 years and found 2 notable shifts in happieness. First was the large dip which indicats the 2008 housing crisis, and secondly, was the rise in happieness
+at the start of 2020, showing that people as a whole were more happy in lockdown rather than going to their every day 9 to 5 jobs.
+
+
