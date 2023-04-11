@@ -1,0 +1,28 @@
+Main Questions and Answers
+
+Are countries that have a higher life ladder more likely to live longer?
+
+    It is likely from our analysis that this correlation exists. From comparing the top 10 happiest countries with the top 10 countries by life expectancy only a handful of the happiest countries have similarly high life expectancies. There is the possibility that if more data was collected on the the respective medical systems and politics of each country we might find more variation in the results. 
+
+Do countries that are happier have a generally lower perception of corruption? 
+
+    Yes. From our scatterplot comparing life ladder scores vs perception of corruption we can clearly see the plots trending downwards the higher the life ladder gets, indicating that countries that are happier feel that their government is more fair. To prove this we looked further by comparing the United States perceptions of corruption over time vs happiness. The relationship between the two is negative; as perceptions of corruption increase happiness levels tend to drop downward.
+
+Does the level of social support and freedom to make life choices positively affect happiness levels?
+
+    Based on our findings, we believe that the relationship between the freedom to make life choices and social support demonstrates a positive relationship with happiness levels. Our scatterplots demonstrate this trend. It could confidently be assumed that a higher level of social support could lead to marginally less freedom but more data collection and analysis would need to be conducted to assert this. Preliminarily we assert this positive relationship.
+
+Does a higher log GDP per capita led to a higher happieess level?
+
+   We formed a scatterplot based on log GDP per capita and happiness level, conducting a linear regression between the two. From this analysis we concluded that there is a generally strong positive relationship between GDP and happiness levels, whereby countries with higher levels of GDP per citizen have more happier citizens on average. This would suggest that wealth or income is a key component of happiness.
+
+
+Finally, Has the world become a happier or sadder place over the past 2 decades?
+ 
+    From the graph reflecting total happiness from 2005-2022 we can see that world happiness we can see that average world happiness dropped off significantly between 2005 and 2006. While we were mostly concerned with the general trends we were unable to determine a conclusive explanation from the data to describe this occurence. After this point, happiness seemed to trend downwards, generally hovering around 5.4 on the happiness scale. Interestingly, happiness levels seemed to go up universally in 2020, possibly indicating that the COVID-19 epidemic and the associated lockdowns led to increased happiness due to more time spent at home with family.
+    After all, time is the perfect gift :)
+
+
+
+    In conclusion, our findings based on our questions are very interesting. We found that countries that are happier don't generally tend to live longer. With a bit of speculation one could assume that this could be caused by the lifestyle led by some in these happier countries. Similarly, we correctly assumed that countries that are happier generally don't think that their governing bodies are corrupt but we also found that many countries known to be very corrupt had missing data in that category. Diving deeper into the data for the United States we found that there is a direct correlation between perceptions of corruption and happiness levels, as the two graphs were complete opposites of one another. 
+	Our analysis on the relationship between social support and freedom to make life choices was also positive, demonstrating the importance of these dimensions on overall happiness levels. Next, we explored whether or not higher GDP led to a more happy population and we found that a higher log GDP does generally lead to higher happiness levels. However, this should be taken lightly as GDP is not an all encompassing measurement of wealth. Finally, we explored the world happiness level over the past 17 years and found 2 notable shifts in happiness. First was the large dip after 2005 followed by the general rise in happiness at the start of 2020. We concluded that this occurred as a result of the opportunity to spend more time with their families .
