@@ -1,0 +1,42 @@
+-SLIDE 1 (Introduction, done by both of us)
+ 	-PROJECT: Analysis on Happiness from The World Happiness Report
+	-Presented by Julian Hafza and Julien Counts
+
+-SLIDE 2 (Basic overview of our analysis, JULIEN)
+	- Introduce the World Happiness Report as a study of happiness trends across 165 countries
+	from 2005 to 2022. 
+	- Goal of The Happiness Report is to make happiness a worldwide goal of central policy 
+	making.
+	- Respondents in each nation are randomly surveyed and asked to rank their happiness level 
+	based on a scale of 0-10, with 0 being the worst life and 10 being the best life. These are 
+	aggregated and averaged by country as the "life ladder".
+	- Conducted via the use of surveys that ask individuals in each nation questions across 6
+	dimensions:
+	1. GDP per capita (log converted)
+	2. Healthy life expectancy at birth (From the World Health Organization)
+	3. Social support (0-1 scale, 0= no, 1=yes)
+	4. Freedom to make life choices (0-1 scale, 0= no, 1=yes)
+	5. Generosity (residual of regressing the national average of Gallop World Poll responses to 
+	the Gallup World Poll question "Have you donated money to a charity in the past month?")
+	6. Perceptions of corruption (0-1 scale, 0= no, 1=yes)
+
+-SLIDE 3 (JULIAN)
+	The relationship between wealth (as a logarithmic conversion of GDP) and generousness.
+
+-SLIDE 4 (JULIAN)
+	The relationship between perception of government corruption with life ladders (happiness)
+
+-SLIDE 5 (JULIAN)
+	The relationship between the freedom to make life choices vs social support and their impacts 	    
+	on happiness.
+
+-SLIDE 6 (JULIEN)
+	The relationship between GDP and life ladders (happiness)
+
+-SLIDE 7 (JULIEN)
+	Total happiness trends across time series of 2005-2022
+
+-SLIDE 8 (JULIEN)
+	Ask if the group has questions, answer any questions.
+
+				 
